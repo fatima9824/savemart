@@ -1,0 +1,32 @@
+.logo{
+    width: 10%;
+    height: 10%;
+}
+
+.ban{
+    
+    width: 100%;
+    height: 80%;
+
+}
+
+.slo{
+    font-size: 50px;
+    margin-top: 20%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20%;
+}
+
+.head{
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+.row1{
+    margin-top: 3%;
+}
+
+footer{
+    margin-top: 5%;
+}
